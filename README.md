@@ -1,48 +1,15 @@
-# Introduction to machine learning 
-
-Talk about it three times
-Introduce it
-Why is something important/relevant?
-Discuss and apply it
-Repeat key terms 2x
-Summarize it
-If you forget everything, what should you take away from this?
-Outline
-Course Introduction (14 mins)
-Popular library: sklearn and Python
-Why is machine learning important in this big data era (:3)
-What is machine learning (:4)
-Big data and machine learning (:5)
-Terminology (:6)
-Briefly talk about algorithms (:820)
-Question: ML formalism  (:10)
-Workflow  (:12) 
-Framing your question
-Acquiring the data
-Preprocessing
-Model learning
-Model testing
-Getting Started with Machine Learning with Sklearn (1730)
-Cheat sheet: how to get started 
-Exploring Sklearn library : how to use the library (1920)
-Troubleshooting: fix your algorithm (2320)
-Machine learning in 3 steps in detail :code along(2520)
-Workflow
-Preprocessing
-Performance metrics precision, recall and f score
-Overfitting vs underfitting
-Coding sample (Using the Tpot to pick the best one )
-recap preprocessing , performance metrics, and avoid over or under fitting
-What ML is not !!!!
-Types of algorithms  (15 mins)
-Decision Tree (student intervention) 
-Unsupervised (customer segmentation)
-Reinforcement learning (self driving cab)
-Sidenote on is AI/deep learning part of machine learning
-Supplement notes: (3 mins)
-Size matter on big data?
-stratified
-Additional information
-Open data
-Summary (2 mins)
-
+##Introduction to Machine learning
+#Description
+“Machine learning systems are made up of three major parts, which are:
+#•	Model: the system that makes predictions or identifications.
+#•	Parameters: the signals or factors used by the model to form its decisions.
+#•	Learner: the system that adjusts the parameters — and in turn the model — by looking at differences in predictions versus actual outcome.”
+#- Greg Corrado, a senior research scientist with Google and cofounder of the company’s deep learning team.
+Machine learning in short, is teaching computers to find patterns that might not be easily spotted by human eyed. This course is going to give you wide range of tools to analysis your data, applying design thinking process on data iterations and understanding what algorithms to apply. 
+Target Audience / Experience
+#•	This course is for developers or data engineers looking to apply machine learning on analysis
+#•	Viewers should have a basic understanding of algebra, statistics, and calculus. Some familiarity with the Python will also be helpful but is not required.
+Learning Objectives
+#•	Defining the problems and data relevance 
+#•	Understand how and which algorithms to apply 
+#•	Confortable with different ML tools such as sklearn, python, ipython, numpy, matplotlib
